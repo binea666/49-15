@@ -1,5 +1,5 @@
 > Due to a third-party risk dispute, this script stopped sharing
-> 由于第三方风险争议，此脚本停止分享。
+> 由于第三方风险争议，此脚本停止分享
 > *** 
 ### 自己的收集使用教程具体找作者'
 ### 1. 20210308 ，抄了个49任务的，不知道能不能用，[49源地址](https://github.com/lz0423/ceshi)
@@ -16,7 +16,7 @@
 #### 依次添加共四项
 ![image](https://user-images.githubusercontent.com/79479594/109432827-6d05c880-7a50-11eb-8682-50405d7d66dd.png)
 
-#### 添加以上数据之后，进入 actions ，点击绿色长条启用它，   
+#### 添加以上数据之后，进入 actions ，，点击绿色长条启用它，   
 ![QQ图片20210301054304](https://user-images.githubusercontent.com/79479594/109433119-1600f300-7a52-11eb-8ad2-0f7739d407c8.png)
   
 #### 进入日常任务daily-task，然后Enable Workflow启用工作流  
