@@ -42,7 +42,6 @@ jobs:
       id: npm-cache
       run: |
         echo "::set-output name=dir::$(npm config get cache)"
-
     - name: restore npm cache
       uses: actions/cache@v2
       id: use-npm-cache
