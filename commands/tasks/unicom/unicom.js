@@ -95,10 +95,10 @@ var start = async (params) => {
     await require('./dailyBookVideo').doTask(request, options)
   }, taskOption)
 
-  await scheduler.regTask('dailyBookLuckdraw', async (request) => {
+  //await scheduler.regTask('dailyBookLuckdraw', async (request) => {
     // 首页-小说-阅读福利抽大奖
-    await require('./dailyBookLuckdraw').doTask(request, options)
-  }, taskOption)
+    //await require('./dailyBookLuckdraw').doTask(request, options)
+  //}, taskOption)
 
   // 首页-签到有礼-免费领-1G流量日包
   await scheduler.regTask('daily1GFlowTask', async (request) => {
